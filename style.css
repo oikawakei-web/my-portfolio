@@ -1,0 +1,35 @@
+header {
+  width: 100%;
+  padding: 30px 4% 10px;
+  background: linear-gradient(to right, blue, pink, blue);
+}
+
+.aa {
+  text-align: center;
+  font-size: 25px;
+}
+
+body {
+  width: 100%;
+  padding: 30px 4% 10px;
+  background-color: #fff;
+}
+
+img {
+  padding-top: 100px;
+  padding-left: 80px;
+  width: 600px;
+}
+
+.profile {
+  border: 2px solid #000;
+  padding: 20px;
+  position: absolute;
+  top: 280px;
+  left: 730px;
+  font-size: 20px;
+}
+
+.ikigomi {
+  padding-top: 20px;
+}
